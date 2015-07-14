@@ -10,5 +10,5 @@ var HomeCtrl = (function () {
     };
     return HomeCtrl;
 })();
-exports.default = HomeCtrl;
+exports["default"] = HomeCtrl;
 //# sourceMappingURL=HomeCtrl.js.map

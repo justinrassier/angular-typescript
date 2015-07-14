@@ -9,5 +9,5 @@ var MyService = (function () {
     };
     return MyService;
 })();
-exports.default = MyService;
+exports["default"] = MyService;
 //# sourceMappingURL=MyService.js.map
