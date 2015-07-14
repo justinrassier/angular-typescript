@@ -2,7 +2,11 @@ export default class HomeCtrl{
 	message:string;
 	
 	constructor(){
-		this.message = "Hello World";
+		console.log('asdf');
+		this.message="start";
 	} 
+	updateMessage(){
+		this.message = "Congrats, you clicked me!!!!";
+	}
 	
 }
